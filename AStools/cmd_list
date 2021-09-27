@@ -1,0 +1,1 @@
+perl ASscan.pl -i pf10.hisat.sorted.bam -o pf10-hisat -r /data/xinwang/genome/watermelon/watermelon_v1.fasta -a -1 -c 1000 -q -1 -a -1 -j -1

@@ -1,0 +1,1676 @@
+BLASTN 2.2.25 [Feb-01-2011]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= 123
+         (24 letters)
+
+Database: watermelon_v1.fasta 
+           12 sequences; 355,247,419 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+Chr0                                                                   48   1e-05
+Chr5                                                                   48   1e-05
+Chr11                                                                  40   0.002
+Chr10                                                                  40   0.002
+Chr9                                                                   40   0.002
+Chr6                                                                   40   0.002
+Chr4                                                                   40   0.002
+Chr3                                                                   40   0.002
+Chr2                                                                   40   0.002
+Chr1                                                                   40   0.002
+Chr8                                                                   38   0.009
+Chr7                                                                   34   0.14 
+
+>Chr0
+          Length = 24621398
+
+ Score = 48.1 bits (24), Expect = 1e-05
+ Identities = 24/24 (100%)
+ Strand = Plus / Minus
+
+                                       
+Query: 1       ccatcatactgagcctaccaagtt 24
+               ||||||||||||||||||||||||
+Sbjct: 9187939 ccatcatactgagcctaccaagtt 9187916
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                       
+Query: 1       ccatcatactgagcctaccaagtt 24
+               |||||| |||||||||||||||||
+Sbjct: 9188299 ccatcaaactgagcctaccaagtt 9188276
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 12746562 ccatcaaactgagcctaccaagtt 12746539
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 12746923 ccatcaaactgagcctaccaagtt 12746900
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 12747284 ccatcaaactgagcctaccaagtt 12747261
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 12747645 ccatcaaactgagcctaccaagtt 12747622
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 12748006 ccatcaaactgagcctaccaagtt 12747983
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 12748368 ccatcaaactgagcctaccaagtt 12748345
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 12748732 ccatcaaactgagcctaccaagtt 12748709
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 23403738 ccatcaaactgagcctaccaagtt 23403715
+
+
+
+ Score = 38.2 bits (19), Expect = 0.009
+ Identities = 22/23 (95%)
+ Strand = Plus / Minus
+
+                                      
+Query: 1       ccatcatactgagcctaccaagt 23
+               |||||| ||||||||||||||||
+Sbjct: 9187580 ccatcacactgagcctaccaagt 9187558
+
+
+
+ Score = 38.2 bits (19), Expect = 0.009
+ Identities = 22/23 (95%)
+ Strand = Plus / Minus
+
+                                       
+Query: 1        ccatcatactgagcctaccaagt 23
+                |||||||||||||||| ||||||
+Sbjct: 15046344 ccatcatactgagcctgccaagt 15046322
+
+
+
+ Score = 38.2 bits (19), Expect = 0.009
+ Identities = 22/23 (95%)
+ Strand = Plus / Plus
+
+                                       
+Query: 2        catcatactgagcctaccaagtt 24
+                ||||| |||||||||||||||||
+Sbjct: 20913379 catcaaactgagcctaccaagtt 20913401
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 20/21 (95%)
+ Strand = Plus / Minus
+
+                                     
+Query: 1        ccatcatactgagcctaccaa 21
+                |||||| ||||||||||||||
+Sbjct: 23399039 ccatcaaactgagcctaccaa 23399019
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 19/20 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1        ccatcatactgagcctacca 20
+                |||||| |||||||||||||
+Sbjct: 20917745 ccatcaaactgagcctacca 20917764
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| ||| |||||||||||||
+Sbjct: 20925097 ccatcaaactaagcctaccaagtt 20925120
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 16/16 (100%)
+ Strand = Plus / Minus
+
+                                
+Query: 9        ctgagcctaccaagtt 24
+                ||||||||||||||||
+Sbjct: 23401898 ctgagcctaccaagtt 23401883
+
+
+>Chr5
+          Length = 33714806
+
+ Score = 48.1 bits (24), Expect = 1e-05
+ Identities = 24/24 (100%)
+ Strand = Plus / Plus
+
+                                  
+Query: 1  ccatcatactgagcctaccaagtt 24
+          ||||||||||||||||||||||||
+Sbjct: 40 ccatcatactgagcctaccaagtt 63
+
+
+
+ Score = 44.1 bits (22), Expect = 2e-04
+ Identities = 22/22 (100%)
+ Strand = Plus / Plus
+
+                                  
+Query: 1    ccatcatactgagcctaccaag 22
+            ||||||||||||||||||||||
+Sbjct: 2564 ccatcatactgagcctaccaag 2585
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                   
+Query: 1   ccatcatactgagcctaccaagtt 24
+           |||||| |||||||||||||||||
+Sbjct: 759 ccatcaaactgagcctaccaagtt 782
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| |||||||||||||||||
+Sbjct: 2213 ccatcaaactgagcctaccaagtt 2236
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| |||||||||||||||||
+Sbjct: 3285 ccatcaaactgagcctaccaagtt 3308
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| |||||||||||||||||
+Sbjct: 4348 ccatcaaactgagcctaccaagtt 4371
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                     
+Query: 1     ccatcatactgagcctaccaagtt 24
+             |||||| |||||||||||||||||
+Sbjct: 10606 ccatcaaactgagcctaccaagtt 10629
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                     
+Query: 1     ccatcatactgagcctaccaagtt 24
+             |||||| |||||||||||||||||
+Sbjct: 17569 ccatcaaactgagcctaccaagtt 17592
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                ||||||||||||||| ||||||||
+Sbjct: 33714318 ccatcatactgagcccaccaagtt 33714295
+
+
+
+ Score = 38.2 bits (19), Expect = 0.009
+ Identities = 22/23 (95%)
+ Strand = Plus / Plus
+
+                                   
+Query: 1    ccatcatactgagcctaccaagt 23
+            |||||||||||||||| ||||||
+Sbjct: 1852 ccatcatactgagccttccaagt 1874
+
+
+
+ Score = 38.2 bits (19), Expect = 0.009
+ Identities = 22/23 (95%)
+ Strand = Plus / Plus
+
+                                   
+Query: 1    ccatcatactgagcctaccaagt 23
+            |||||| ||||||||||||||||
+Sbjct: 3987 ccatcaaactgagcctaccaagt 4009
+
+
+
+ Score = 38.2 bits (19), Expect = 0.009
+ Identities = 22/23 (95%)
+ Strand = Plus / Minus
+
+                                       
+Query: 2        catcatactgagcctaccaagtt 24
+                ||||| |||||||||||||||||
+Sbjct: 33709972 catcaaactgagcctaccaagtt 33709950
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 8     actgagcctaccaagtt 24
+             |||||||||||||||||
+Sbjct: 10974 actgagcctaccaagtt 10990
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Minus
+
+                                 
+Query: 2        catcatactgagcctac 18
+                |||||||||||||||||
+Sbjct: 33710330 catcatactgagcctac 33710314
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 16/16 (100%)
+ Strand = Plus / Plus
+
+                           
+Query: 8   actgagcctaccaagt 23
+           ||||||||||||||||
+Sbjct: 407 actgagcctaccaagt 422
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Plus
+
+                                     
+Query: 1     ccatcatactgagcctaccaagtt 24
+             |||||| | |||||||||||||||
+Sbjct: 17222 ccatcaaattgagcctaccaagtt 17245
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 19/20 (95%)
+ Strand = Plus / Minus
+
+                                    
+Query: 1        ccatcatactgagcctacca 20
+                |||||| |||||||||||||
+Sbjct: 33710689 ccatcaaactgagcctacca 33710670
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| ||||| |||||||||||
+Sbjct: 33713957 ccatcaaactgaccctaccaagtt 33713934
+
+
+
+ Score = 30.2 bits (15), Expect = 2.3
+ Identities = 21/23 (91%)
+ Strand = Plus / Plus
+
+                                   
+Query: 1    ccatcatactgagcctaccaagt 23
+            |||||||||  ||||||||||||
+Sbjct: 2924 ccatcatacgtagcctaccaagt 2946
+
+
+
+ Score = 30.2 bits (15), Expect = 2.3
+ Identities = 21/23 (91%)
+ Strand = Plus / Minus
+
+                                       
+Query: 2        catcatactgagcctaccaagtt 24
+                ||||| ||| |||||||||||||
+Sbjct: 33709611 catcaaactaagcctaccaagtt 33709589
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 14/14 (100%)
+ Strand = Plus / Plus
+
+                           
+Query: 9     ctgagcctaccaag 22
+             ||||||||||||||
+Sbjct: 10253 ctgagcctaccaag 10266
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 14/14 (100%)
+ Strand = Plus / Minus
+
+                              
+Query: 11       gagcctaccaagtt 24
+                ||||||||||||||
+Sbjct: 30263823 gagcctaccaagtt 30263810
+
+
+>Chr11
+          Length = 27106780
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 27106405 ccatcaaactgagcctaccaagtt 27106428
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 8        actgagcctaccaagtt 24
+                |||||||||||||||||
+Sbjct: 27105332 actgagcctaccaagtt 27105348
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 8        actgagcctaccaagtt 24
+                |||||||||||||||||
+Sbjct: 27105693 actgagcctaccaagtt 27105709
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 16/16 (100%)
+ Strand = Plus / Plus
+
+                                
+Query: 7        tactgagcctaccaag 22
+                ||||||||||||||||
+Sbjct: 22682040 tactgagcctaccaag 22682055
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 16/16 (100%)
+ Strand = Plus / Minus
+
+                                
+Query: 9        ctgagcctaccaagtt 24
+                ||||||||||||||||
+Sbjct: 27104834 ctgagcctaccaagtt 27104819
+
+
+
+ Score = 30.2 bits (15), Expect = 2.3
+ Identities = 18/19 (94%)
+ Strand = Plus / Minus
+
+                                   
+Query: 2        catcatactgagcctacca 20
+                ||||| |||||||||||||
+Sbjct: 27102001 catcaaactgagcctacca 27101983
+
+
+
+ Score = 30.2 bits (15), Expect = 2.3
+ Identities = 15/15 (100%)
+ Strand = Plus / Plus
+
+                               
+Query: 8        actgagcctaccaag 22
+                |||||||||||||||
+Sbjct: 27106050 actgagcctaccaag 27106064
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 14/14 (100%)
+ Strand = Plus / Minus
+
+                              
+Query: 7        tactgagcctacca 20
+                ||||||||||||||
+Sbjct: 13372833 tactgagcctacca 13372820
+
+
+>Chr10
+          Length = 28419553
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                       
+Query: 1       ccatcatactgagcctaccaagtt 24
+               |||||| |||||||||||||||||
+Sbjct: 2317011 ccatcaaactgagcctaccaagtt 2316988
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28412128 ccatcaaactgagcctaccaagtt 28412105
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28412487 ccatcaaactgagcctaccaagtt 28412464
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28413542 ccatcaaactgagcctaccaagtt 28413519
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28413904 ccatcaaactgagcctaccaagtt 28413881
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28414720 ccatcaaactgagcctaccaagtt 28414697
+
+
+
+ Score = 38.2 bits (19), Expect = 0.009
+ Identities = 22/23 (95%)
+ Strand = Plus / Plus
+
+                                      
+Query: 2       catcatactgagcctaccaagtt 24
+               ||||||||||||||| |||||||
+Sbjct: 2309454 catcatactgagcctgccaagtt 2309476
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 20/21 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 2       catcatactgagcctaccaag 22
+               ||||||||||||||| |||||
+Sbjct: 2311262 catcatactgagcctgccaag 2311282
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Minus
+
+                                 
+Query: 8        actgagcctaccaagtt 24
+                |||||||||||||||||
+Sbjct: 28411763 actgagcctaccaagtt 28411747
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Minus
+
+                                 
+Query: 8        actgagcctaccaagtt 24
+                |||||||||||||||||
+Sbjct: 28412840 actgagcctaccaagtt 28412824
+
+
+
+ Score = 30.2 bits (15), Expect = 2.3
+ Identities = 21/23 (91%)
+ Strand = Plus / Plus
+
+                                      
+Query: 2       catcatactgagcctaccaagtt 24
+               ||||||||||||| | |||||||
+Sbjct: 2308716 catcatactgagcttcccaagtt 2308738
+
+
+
+ Score = 30.2 bits (15), Expect = 2.3
+ Identities = 15/15 (100%)
+ Strand = Plus / Minus
+
+                               
+Query: 9        ctgagcctaccaagt 23
+                |||||||||||||||
+Sbjct: 28419487 ctgagcctaccaagt 28419473
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 17/18 (94%)
+ Strand = Plus / Minus
+
+                                 
+Query: 1       ccatcatactgagcctac 18
+               |||||| |||||||||||
+Sbjct: 2315576 ccatcaaactgagcctac 2315559
+
+
+>Chr9
+          Length = 34986854
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 34985455 ccatcaaactgagcctaccaagtt 34985432
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 34986080 ccatcaaactgagcctaccaagtt 34986057
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 34986437 ccatcaaactgagcctaccaagtt 34986414
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 34986797 ccatcaaactgagcctaccaagtt 34986774
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 8        actgagcctaccaagtt 24
+                |||||||||||||||||
+Sbjct: 34184772 actgagcctaccaagtt 34184788
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 8        actgagcctaccaagtt 24
+                |||||||||||||||||
+Sbjct: 34185482 actgagcctaccaagtt 34185498
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 14/14 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 11      gagcctaccaagtt 24
+               ||||||||||||||
+Sbjct: 3810008 gagcctaccaagtt 3810021
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 14/14 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 1        ccatcatactgagc 14
+                ||||||||||||||
+Sbjct: 17615309 ccatcatactgagc 17615322
+
+
+>Chr6
+          Length = 27018480
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                  
+Query: 1  ccatcatactgagcctaccaagtt 24
+          |||||| |||||||||||||||||
+Sbjct: 75 ccatcaaactgagcctaccaagtt 98
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                   
+Query: 1   ccatcatactgagcctaccaagtt 24
+           |||||| |||||||||||||||||
+Sbjct: 437 ccatcaaactgagcctaccaagtt 460
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                   
+Query: 1   ccatcatactgagcctaccaagtt 24
+           |||||| |||||||||||||||||
+Sbjct: 799 ccatcaaactgagcctaccaagtt 822
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| |||||||||||||||||
+Sbjct: 1160 ccatcaaactgagcctaccaagtt 1183
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| |||||||||||||||||
+Sbjct: 1883 ccatcaaactgagcctaccaagtt 1906
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| |||||||||||||||||
+Sbjct: 2245 ccatcaaactgagcctaccaagtt 2268
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| |||||||||||||||||
+Sbjct: 2987 ccatcaaactgagcctaccaagtt 3010
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| |||||||||||||||||
+Sbjct: 3340 ccatcaaactgagcctaccaagtt 3363
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 8    actgagcctaccaagtt 24
+            |||||||||||||||||
+Sbjct: 1528 actgagcctaccaagtt 1544
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Minus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| ||| |||||||||||||
+Sbjct: 7120 ccatcaaactaagcctaccaagtt 7097
+
+
+
+ Score = 30.2 bits (15), Expect = 2.3
+ Identities = 21/23 (91%)
+ Strand = Plus / Minus
+
+                                       
+Query: 2        catcatactgagcctaccaagtt 24
+                ||||| |||||||||||| ||||
+Sbjct: 27015425 catcaaactgagcctacctagtt 27015403
+
+
+
+ Score = 30.2 bits (15), Expect = 2.3
+ Identities = 15/15 (100%)
+ Strand = Plus / Minus
+
+                               
+Query: 10       tgagcctaccaagtt 24
+                |||||||||||||||
+Sbjct: 27016158 tgagcctaccaagtt 27016144
+
+
+>Chr4
+          Length = 24315960
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 24312178 ccatcaaactgagcctaccaagtt 24312201
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 24313260 ccatcaaactgagcctaccaagtt 24313283
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 24315771 ccatcaaactgagcctaccaagtt 24315748
+
+
+
+ Score = 38.2 bits (19), Expect = 0.009
+ Identities = 22/23 (95%)
+ Strand = Plus / Plus
+
+                                       
+Query: 1        ccatcatactgagcctaccaagt 23
+                |||||| ||||||||||||||||
+Sbjct: 24314338 ccatcaaactgagcctaccaagt 24314360
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| ||| |||||||||||||
+Sbjct: 24313982 ccatcaaactaagcctaccaagtt 24314005
+
+
+>Chr3
+          Length = 28939167
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| |||||||||||||||||
+Sbjct: 2606 ccatcaaactgagcctaccaagtt 2629
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| |||||||||||||||||
+Sbjct: 3700 ccatcaaactgagcctaccaagtt 3723
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| |||||||||||||||||
+Sbjct: 5719 ccatcaaactgagcctaccaagtt 5696
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28922765 ccatcaaactgagcctaccaagtt 28922788
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28926786 ccatcaaactgagcctaccaagtt 28926809
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28930131 ccatcaaactgagcctaccaagtt 28930154
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28930849 ccatcaaactgagcctaccaagtt 28930872
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28931217 ccatcaaactgagcctaccaagtt 28931240
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28931579 ccatcaaactgagcctaccaagtt 28931602
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28932354 ccatcaaactgagcctaccaagtt 28932331
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28932717 ccatcaaactgagcctaccaagtt 28932694
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28933438 ccatcaaactgagcctaccaagtt 28933415
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 28936497 ccatcaaactgagcctaccaagtt 28936474
+
+
+
+ Score = 36.2 bits (18), Expect = 0.037
+ Identities = 21/22 (95%)
+ Strand = Plus / Plus
+
+                                      
+Query: 1        ccatcatactgagcctaccaag 22
+                |||||| |||||||||||||||
+Sbjct: 28926425 ccatcaaactgagcctaccaag 28926446
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 8    actgagcctaccaagtt 24
+            |||||||||||||||||
+Sbjct: 2250 actgagcctaccaagtt 2266
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 8    actgagcctaccaagtt 24
+            |||||||||||||||||
+Sbjct: 9319 actgagcctaccaagtt 9335
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Minus
+
+                                 
+Query: 8        actgagcctaccaagtt 24
+                |||||||||||||||||
+Sbjct: 28922309 actgagcctaccaagtt 28922293
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 8        actgagcctaccaagtt 24
+                |||||||||||||||||
+Sbjct: 28923554 actgagcctaccaagtt 28923570
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 19/20 (95%)
+ Strand = Plus / Plus
+
+                                
+Query: 1    ccatcatactgagcctacca 20
+            |||||| |||||||||||||
+Sbjct: 1144 ccatcagactgagcctacca 1163
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Plus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| | |||||||||||||||
+Sbjct: 2971 ccatcaaattgagcctaccaagtt 2994
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Minus
+
+                                    
+Query: 1    ccatcatactgagcctaccaagtt 24
+            |||||| ||| |||||||||||||
+Sbjct: 6462 ccatcaaacttagcctaccaagtt 6439
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 16/16 (100%)
+ Strand = Plus / Plus
+
+                                
+Query: 9        ctgagcctaccaagtt 24
+                ||||||||||||||||
+Sbjct: 28924279 ctgagcctaccaagtt 28924294
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 19/20 (95%)
+ Strand = Plus / Minus
+
+                                    
+Query: 1        ccatcatactgagcctacca 20
+                |||||| |||||||||||||
+Sbjct: 28933080 ccatcaaactgagcctacca 28933061
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 14/14 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 8        actgagcctaccaa 21
+                ||||||||||||||
+Sbjct: 28931947 actgagcctaccaa 28931960
+
+
+>Chr2
+          Length = 34414252
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                       
+Query: 1       ccatcatactgagcctaccaagtt 24
+               |||||| |||||||||||||||||
+Sbjct: 2046944 ccatcaaactgagcctaccaagtt 2046967
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                       
+Query: 1       ccatcatactgagcctaccaagtt 24
+               |||||| |||||||||||||||||
+Sbjct: 2048027 ccatcaaactgagcctaccaagtt 2048050
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                       
+Query: 1       ccatcatactgagcctaccaagtt 24
+               |||||| |||||||||||||||||
+Sbjct: 2049524 ccatcaaactgagcctaccaagtt 2049547
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 34405542 ccatcaaactgagcctaccaagtt 34405519
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 34406652 ccatcaaactgagcctaccaagtt 34406629
+
+
+
+ Score = 38.2 bits (19), Expect = 0.009
+ Identities = 22/23 (95%)
+ Strand = Plus / Minus
+
+                                       
+Query: 2        catcatactgagcctaccaagtt 24
+                ||||| |||||||||||||||||
+Sbjct: 34403332 catcaaactgagcctaccaagtt 34403310
+
+
+
+ Score = 36.2 bits (18), Expect = 0.037
+ Identities = 21/22 (95%)
+ Strand = Plus / Minus
+
+                                      
+Query: 1        ccatcatactgagcctaccaag 22
+                |||||| |||||||||||||||
+Sbjct: 34404769 ccatcaaactgagcctaccaag 34404748
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Plus
+
+                                
+Query: 8       actgagcctaccaagtt 24
+               |||||||||||||||||
+Sbjct: 2047672 actgagcctaccaagtt 2047688
+
+
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Minus
+
+                                 
+Query: 8        actgagcctaccaagtt 24
+                |||||||||||||||||
+Sbjct: 34414083 actgagcctaccaagtt 34414067
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Plus
+
+                                       
+Query: 1       ccatcatactgagcctaccaagtt 24
+               |||||| ||||||||||| |||||
+Sbjct: 2044521 ccatcaaactgagcctactaagtt 2044544
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Plus
+
+                                       
+Query: 1       ccatcatactgagcctaccaagtt 24
+               |||||| |||| ||||||||||||
+Sbjct: 2044890 ccatcaaactgcgcctaccaagtt 2044913
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Plus
+
+                                       
+Query: 1       ccatcatactgagcctaccaagtt 24
+               |||||| |||| ||||||||||||
+Sbjct: 2045252 ccatcaaactgcgcctaccaagtt 2045275
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 16/16 (100%)
+ Strand = Plus / Plus
+
+                                
+Query: 9        ctgagcctaccaagtt 24
+                ||||||||||||||||
+Sbjct: 25771111 ctgagcctaccaagtt 25771126
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| ||||||||||| |||||
+Sbjct: 34404051 ccatcaaactgagcctactaagtt 34404028
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 22/24 (91%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| | |||||||||||||||
+Sbjct: 34404410 ccatcaaattgagcctaccaagtt 34404387
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 14/14 (100%)
+ Strand = Plus / Minus
+
+                             
+Query: 1       ccatcatactgagc 14
+               ||||||||||||||
+Sbjct: 8902045 ccatcatactgagc 8902032
+
+
+>Chr1
+          Length = 34083085
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 34080238 ccatcaaactgagcctaccaagtt 34080261
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 34080454 ccatcaaactgagcctaccaagtt 34080431
+
+
+
+ Score = 40.1 bits (20), Expect = 0.002
+ Identities = 23/24 (95%)
+ Strand = Plus / Minus
+
+                                        
+Query: 1        ccatcatactgagcctaccaagtt 24
+                |||||| |||||||||||||||||
+Sbjct: 34081491 ccatcaaactgagcctaccaagtt 34081468
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 16/16 (100%)
+ Strand = Plus / Minus
+
+                                
+Query: 9        ctgagcctaccaagtt 24
+                ||||||||||||||||
+Sbjct: 34081853 ctgagcctaccaagtt 34081838
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 16/16 (100%)
+ Strand = Plus / Minus
+
+                                
+Query: 9        ctgagcctaccaagtt 24
+                ||||||||||||||||
+Sbjct: 34082727 ctgagcctaccaagtt 34082712
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 14/14 (100%)
+ Strand = Plus / Minus
+
+                              
+Query: 3        atcatactgagcct 16
+                ||||||||||||||
+Sbjct: 13145882 atcatactgagcct 13145869
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 14/14 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 1        ccatcatactgagc 14
+                ||||||||||||||
+Sbjct: 16691573 ccatcatactgagc 16691586
+
+
+>Chr8
+          Length = 26149438
+
+ Score = 38.2 bits (19), Expect = 0.009
+ Identities = 22/23 (95%)
+ Strand = Plus / Plus
+
+                                       
+Query: 2        catcatactgagcctaccaagtt 24
+                ||||| |||||||||||||||||
+Sbjct: 21122262 catcaaactgagcctaccaagtt 21122284
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 14/14 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 1       ccatcatactgagc 14
+               ||||||||||||||
+Sbjct: 1184400 ccatcatactgagc 1184413
+
+
+>Chr7
+          Length = 31477646
+
+ Score = 34.2 bits (17), Expect = 0.14
+ Identities = 17/17 (100%)
+ Strand = Plus / Minus
+
+                                
+Query: 8       actgagcctaccaagtt 24
+               |||||||||||||||||
+Sbjct: 2960236 actgagcctaccaagtt 2960220
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 19/20 (95%)
+ Strand = Plus / Minus
+
+                                   
+Query: 1       ccatcatactgagcctacca 20
+               |||||| |||||||||||||
+Sbjct: 2966147 ccatcaaactgagcctacca 2966128
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 19/20 (95%)
+ Strand = Plus / Minus
+
+                                   
+Query: 1       ccatcatactgagcctacca 20
+               |||||| |||||||||||||
+Sbjct: 2969387 ccatcaaactgagcctacca 2969368
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 19/20 (95%)
+ Strand = Plus / Minus
+
+                                   
+Query: 1       ccatcatactgagcctacca 20
+               |||||| |||||||||||||
+Sbjct: 2969749 ccatcaaactgagcctacca 2969730
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 19/20 (95%)
+ Strand = Plus / Minus
+
+                                   
+Query: 1       ccatcatactgagcctacca 20
+               |||||| |||||||||||||
+Sbjct: 2970484 ccatcaaactgagcctacca 2970465
+
+
+
+ Score = 32.2 bits (16), Expect = 0.57
+ Identities = 16/16 (100%)
+ Strand = Plus / Minus
+
+                                
+Query: 9        ctgagcctaccaagtt 24
+                ||||||||||||||||
+Sbjct: 28623516 ctgagcctaccaagtt 28623501
+
+
+
+ Score = 30.2 bits (15), Expect = 2.3
+ Identities = 18/19 (94%)
+ Strand = Plus / Minus
+
+                                  
+Query: 1       ccatcatactgagcctacc 19
+               |||||| ||||||||||||
+Sbjct: 2973676 ccatcaaactgagcctacc 2973658
+
+
+
+ Score = 30.2 bits (15), Expect = 2.3
+ Identities = 15/15 (100%)
+ Strand = Plus / Minus
+
+                               
+Query: 10       tgagcctaccaagtt 24
+                |||||||||||||||
+Sbjct: 28623876 tgagcctaccaagtt 28623862
+
+
+
+ Score = 30.2 bits (15), Expect = 2.3
+ Identities = 15/15 (100%)
+ Strand = Plus / Minus
+
+                               
+Query: 10       tgagcctaccaagtt 24
+                |||||||||||||||
+Sbjct: 28624498 tgagcctaccaagtt 28624484
+
+
+
+ Score = 28.2 bits (14), Expect = 8.9
+ Identities = 14/14 (100%)
+ Strand = Plus / Minus
+
+                              
+Query: 10       tgagcctaccaagt 23
+                ||||||||||||||
+Sbjct: 29888534 tgagcctaccaagt 29888521
+
+
+  Database: watermelon_v1.fasta
+    Posted date:  May 5, 2017  3:14 PM
+  Number of letters in database: 355,247,419
+  Number of sequences in database:  12
+  
+Lambda     K      H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda     K      H
+    1.37    0.711     1.31 
+
+
+Matrix: blastn matrix:1 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 12
+Number of Hits to DB: 35,896
+Number of extensions: 149
+Number of successful extensions: 149
+Number of sequences better than 10.0: 12
+Number of HSP's gapped: 149
+Number of HSP's successfully gapped: 149
+Length of query: 24
+Length of database: 355,247,419
+Length adjustment: 16
+Effective length of query: 8
+Effective length of database: 355,247,227
+Effective search space: 2841977816
+Effective search space used: 2841977816
+X1: 11 (21.8 bits)
+X2: 15 (29.7 bits)
+X3: 50 (99.1 bits)
+S1: 14 (28.2 bits)
+S2: 14 (28.2 bits)
